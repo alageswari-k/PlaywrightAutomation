@@ -1,0 +1,13 @@
+{
+    "url" : "https://rahulshettyacademy.com/client/",
+    "userName" : "test9001@gmail.com",
+    "password" : "Test@12345",
+    "product_name" : "ZARA COAT 3",
+    "creditcardNum" : "4542 9931 9292 1121",
+    "CVV" : "111",
+    "NameOnCard" : "Test123",
+    "expiry1" : "05",
+    "expiry2" : "20",
+    "countryName" : "ind",
+    "countryName_Verify" : " India"
+}

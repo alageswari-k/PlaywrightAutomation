@@ -1,0 +1,20 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "RegressionTests": "npx playwright test --grep @Regression",
+    "NegativeTests": "npx playwright test --grep @Negative",
+    "WebTests": "npx playwright test --grep @Web"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "typescript": "^7.0.2"
+  }
+}
