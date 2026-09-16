@@ -13,7 +13,7 @@ export default defineConfig({
   reporter : 'html',
   use: {
     browserName : 'chromium',
-    headless : false,
+    headless : true,
     actionTimeout: 15*1000,
     navigationTimeout: 30*1000,
    
